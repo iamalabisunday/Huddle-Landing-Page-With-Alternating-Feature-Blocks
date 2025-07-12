@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  /* Colors */
+  --primary: hsl(322, 100%, 66%);
+  --secondary: hsl(192, 100%, 9%);
+  --cyan: hsl(193, 100%, 96%);
+  --Grayish: hsl(208, 11%, 55%);
+
+  /* Weights */
+  --weight-4: 400;
+  --weight-6: 600;
+  --weight-7: 700;
+}
