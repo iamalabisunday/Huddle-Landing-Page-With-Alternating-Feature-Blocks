@@ -44,7 +44,7 @@
 
 /* Navigation Bar Section */
 .nav {
-  max-width: 1440px;
+  max-width: 90rem;
   width: 85%;
   margin: 0 auto;
   display: flex;
@@ -78,7 +78,7 @@
 
 /* Hero Section */
 .hero {
-  max-width: 1440px;
+  max-width: 90rem;
   width: 85%;
   margin: 0 auto;
   display: flex;
@@ -139,7 +139,7 @@
 /* Main Section */
 
 .main {
-  max-width: 1440px;
+  max-width: 90rem;
   width: 85%;
   margin-top: 4rem;
   display: flex;
